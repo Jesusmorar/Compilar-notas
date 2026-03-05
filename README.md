@@ -28,7 +28,7 @@ Las plataformas educativas suelen exportar datos con formatos inconsistentes (ti
 ## 💻 Instrucciones de Uso
 
 1. **Clonar el repositorio:**
-    Escribe en tu terminal: git clone https://github.com/TU_USUARIO/Compilar-notas.git
+    Escribe en tu terminal: git clone https://github.com/Jesusmorar/Compilar-notas.git
 
 2. **Instalar dependencias:**
     pip install -r requirements.txt
