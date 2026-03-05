@@ -1,0 +1,18 @@
+# --- Datos Sensibles ---
+Datos BS.CSV/
+Resultados/
+
+# --- Extensiones de Archivos ---
+*.csv
+*.xlsx
+*.xls
+
+# --- Python ---
+# Archivos temporales 
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Sistema Operativo ---
+.DS_Store
+Thumbs.db
